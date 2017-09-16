@@ -1,3 +1,58 @@
-h1 {
+.banner{
+	width:100%;
+}
+/*h1 {
 	color: red;
+}*/
+.title-container h1	{
+	color: black;
+	margin: 0;
+	font-size:50px;
+}
+
+.title-container{
+	font-family: "Times New Roman", Georgia, Serif;
+	text-align: center;
+}
+
+.title {
+	background-color: #7AC9FF;
+	height: 500px;
+}
+
+.link{
+	margin:0 4rem;
+}
+
+.links-container{
+	font-size:38px;
+	width:60%;
+	margin:auto;
+	text-align: center;
+}
+.picture{
+	height: 398px;
+}
+.text{
+	font-family: "Times New Roman", Georgia,Serif;
+	text-align: left;
+	font-size: 30px;
+}
+
+.picture-container {
+	width: 39%;
+	display: inline-block;
+	text-align: center;
+
+}
+
+.content-container {
+	width: 60%;
+	display: inline-block;
+	bottom: 125px;
+	position: relative;
+
+}
+.content-container h1{
+	margin:0;
 }
